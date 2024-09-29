@@ -91,6 +91,7 @@ El proyecto no requiere acceso o credenciales específicas, ya que es una aplica
 Este proyecto utiliza un endpoint de API para obtener la hora actual. La API expone el siguiente endpoint:
 - GET /api/clock: Devuelve la hora actual en formato JSON, incluyendo horas, minutos, segundos y formato AM/PM.
 **Ejemplo de Respuesta**:
+  
   ```bash
   {
       "hours": 12,
