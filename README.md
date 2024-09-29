@@ -6,7 +6,7 @@
 ### Descripción General.
 La "API-Clock" proporciona información sobre la hora actual en diferentes zonas horarias del mundo. Permite obtener datos como la fecha, la hora, la zona horaria y el estado del horario de verano en formato JSON. Esta API es útil para aplicaciones que necesitan mostrar la hora precisa o realizar operaciones relacionadas con la fecha y hora.
 
-[<img src="screenshots/API-Clock.png" align="center" width="100%" />](https://miguel-antonio-martinez-jimenez.github.io/ShieldedPass/Index.html)
+[<img src="screenshots/API-Clock.png" align="center" width="100%" />](https://miguel-antonio-martinez-jimenez.github.io/API-Clock/)
 
 <div align="center">
    
