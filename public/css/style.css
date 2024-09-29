@@ -1,0 +1,23 @@
+/* css/style.css */
+.clock-container {
+    background-color: #007bff; /* Cambia el color de fondo si deseas */
+    transition: background-color 0.5s;
+  }
+  
+  #clock {
+    font-size: 4rem; /* Tamaño del texto del reloj */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  #date {
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .btn {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+    color: white;
+  }  
